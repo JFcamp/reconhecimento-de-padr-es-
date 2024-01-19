@@ -1,0 +1,1 @@
+# reconhecimento-de-padr-es-
