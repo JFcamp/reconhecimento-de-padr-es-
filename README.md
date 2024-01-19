@@ -1,1 +1,1 @@
-# reconhecimento-de-padr-es-
+# reconhecimento de padroes
