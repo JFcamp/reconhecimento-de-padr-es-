@@ -3,7 +3,7 @@ Autores: Bianca Panacho, Pedro Campos e Vinícius Barbosa.
 
 Esse projeto foi realizado com a linguagem Python, utilizando o altoritmo Random Forest implementado da biblioteca scikit-learn, também utilizamos uma extensão do Visual Studio Vode, Jupyter, para transformar o dataset "parquet" em "csv" e visualizar os dados de forma organizada em formato de tabela.
 
-![header](https://user-images.githubusercontent.com/38620899/106385660-2de04b00-63b0-11eb-9747-843cdc397c76.PNG)
+![header](socialShareImage.img.0cc7ece90c7d4d65b39e96a154cc67e4.webp)
 
 > Status: Developing ⚠️
 
