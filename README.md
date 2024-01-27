@@ -138,5 +138,13 @@ Avalie a necessidade de ajustar outros parâmetros, como a estrutura da rede neu
 ![Figure_1](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/4f645ea8-3da7-4057-b5d5-9424e029d2c2)
 
 ## Rede neural
++ Curva ROC - Compração do modelo com "Chute"
+  
+![Captura de tela 2024-01-25 171428](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/2befd8fe-4e88-49ed-9dee-2fa54a0aefb4)
+
++ Curva de aprendizado
+
+  
+
 
 
