@@ -133,7 +133,7 @@ Antes de executar, verifique se você possui um conjunto de dados disponível ou
 Certifique-se de compreender os hiperparâmetros definidos no código e ajuste conforme necessário, dependendo do seu problema específico.
 Avalie a necessidade de ajustar outros parâmetros, como a estrutura da rede neural, de acordo com a complexidade do seu problema.
 
-##AD-Randow Florest
+## AD-Randow Florest
 
 ![Figure_1](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/4f645ea8-3da7-4057-b5d5-9424e029d2c2)
 
