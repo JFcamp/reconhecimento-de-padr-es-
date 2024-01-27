@@ -142,9 +142,7 @@ Avalie a necessidade de ajustar outros parâmetros, como a estrutura da rede neu
   
 ![Captura de tela 2024-01-25 171428](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/2befd8fe-4e88-49ed-9dee-2fa54a0aefb4)
 
-+ Curva de aprendizado 
 
-![Captura de tela 2024-01-27 143009](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/edb1f450-4a52-465e-a9d5-3e01b094b4df)
 
 
 
