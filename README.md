@@ -8,7 +8,7 @@ Esse projeto foi realizado com a linguagem Python, utilizando o altoritmo Random
 ### Aplicação e comparação da rede neural com randow florest.🚀
 Optamos pela Random Forest devido à sua destacada interpretabilidade, robustez a hiperparâmetros, capacidade de lidar eficazmente com dados pequenos ou ruidosos, treinamento mais eficiente, menor exigência de normalização intensa e resistência inerente ao overfitting. Esta escolha foi fundamentada na adaptação superior deste modelo ao conjunto de dados fornecido, alinhando-se de maneira mais precisa às necessidades específicas do problema em questão.
 
-## Modelo Escolido:
+## Modelo Escolhido:
 + Nome
   Randow florest 
 + Descrição
