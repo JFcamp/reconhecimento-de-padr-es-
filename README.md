@@ -3,26 +3,26 @@ Autores: Bianca Panacho, Pedro Campos e Vinícius Barbosa.
 
 Esse projeto foi realizado com a linguagem Python, utilizando o altoritmo Random Forest implementado da biblioteca scikit-learn, também utilizamos uma extensão do Visual Studio Vode, Jupyter, para transformar o dataset "parquet" em "csv" e visualizar os dados de forma organizada em formato de tabela.
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-### Aplicação e comparação da rede neural com randow florest.🚀
+### Avaliando o Desempenho do Random Forest e Redes Neurais em Problemas de Classificação Binária 🚀
 Optamos pela Random Forest devido à sua destacada interpretabilidade, robustez a hiperparâmetros, capacidade de lidar eficazmente com dados pequenos ou ruidosos, treinamento mais eficiente, menor exigência de normalização intensa e resistência inerente ao overfitting. Esta escolha foi fundamentada na adaptação superior deste modelo ao conjunto de dados fornecido, alinhando-se de maneira mais precisa às necessidades específicas do problema em questão.
 
 ## Modelo Escolhido:
 + Nome
-  Randow florest 
+  Random Forest 
 + Descrição
 Random Forest é um algoritmo de aprendizado de máquina que cria múltiplas árvores de decisão e combina suas previsões para melhorar a precisão na classificação. Cada árvore "vota" na classe, e a classe mais votada se torna a predição final. Exemplo: classificação de e-mails como spam ou não spam.
 + Acuracia alcançada
-  Utilizando o modelo no data-set fornecido conseguimos uma acuracia de 74% 
+  Utilizando o modelo no data-set fornecido conseguimos uma acuracáia de 74%. 
 
-## Rede Nueral:
+## Rede Neural:
 + Nome
 Rede Neural MLP
 + Descrição
 Uma Rede Neural MLP (Multilayer Perceptron) é um modelo de aprendizado profundo que consiste em camadas de neurônios conectados. Usada para classificação, ela aprende padrões complexos nos dados durante o treinamento, sendo eficaz em problemas como reconhecimento de imagem, previsões financeiras, etc. Exemplo: classificação de dígitos escritos à mão em um conjunto de dados MNIST.
 + Acuracia alcançada
-  Utilizando o modelo no data-set fornecido conseguimos uma acuracia de aproximadamente 72% 
+  Utilizando o modelo no data-set fornecido conseguimos uma acuracia de aproximadamente 72%.
 
 ## Como implementar a Rede Neural:
 
@@ -58,7 +58,7 @@ Se desejar, você pode visualizar os resultados. Por exemplo, crie uma matriz de
 
 Lembre-se de tornar seu código limpo, legível e bem documentado para facilitar a compreensão.
 
-## Como implementar Randow Florest:
+## Como implementar Random Forest:
 
 
 Passo 1: Importar Bibliotecas e Carregar Dados 🌲
@@ -133,12 +133,12 @@ Antes de executar, verifique se você possui um conjunto de dados disponível ou
 Certifique-se de compreender os hiperparâmetros definidos no código e ajuste conforme necessário, dependendo do seu problema específico.
 Avalie a necessidade de ajustar outros parâmetros, como a estrutura da rede neural, de acordo com a complexidade do seu problema.
 
-## AD-Randow Florest
+## AD - Random Forest
 
 ![Figure_1](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/4f645ea8-3da7-4057-b5d5-9424e029d2c2)
 
-## Rede neural
-+ Curva ROC - Compração do modelo com "Chute"
+## Rede Neural
++ Curva ROC - Comparação do modelo com "Chute"
   
 ![Captura de tela 2024-01-25 171428](https://github.com/JFcamp/reconhecimento-de-padr-es-/assets/149902237/2befd8fe-4e88-49ed-9dee-2fa54a0aefb4)
 
