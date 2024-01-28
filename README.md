@@ -1,9 +1,9 @@
-# reconhecimento de padrões
+# Reconhecimento de Padrões
 Autores: Bianca Panacho, Pedro Campos e Vinícius Barbosa.
 
 Esse projeto foi realizado com a linguagem Python, utilizando o altoritmo Random Forest implementado da biblioteca scikit-learn, também utilizamos uma extensão do Visual Studio Vode, Jupyter, para transformar o dataset "parquet" em "csv" e visualizar os dados de forma organizada em formato de tabela.
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 ### Avaliando o Desempenho do Random Forest e Redes Neurais em Problemas de Classificação Binária 🚀
 Optamos pela Random Forest devido à sua destacada interpretabilidade, robustez a hiperparâmetros, capacidade de lidar eficazmente com dados pequenos ou ruidosos, treinamento mais eficiente, menor exigência de normalização intensa e resistência inerente ao overfitting. Esta escolha foi fundamentada na adaptação superior deste modelo ao conjunto de dados fornecido, alinhando-se de maneira mais precisa às necessidades específicas do problema em questão.
